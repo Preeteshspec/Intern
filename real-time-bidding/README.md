@@ -8,7 +8,7 @@
 ## Setup
 1. Clone the repository
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/Preeteshspec/Intern.git
     cd real-time-bidding
     ```
 
